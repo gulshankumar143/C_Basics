@@ -1,3 +1,6 @@
+/*
+Write a Program to print the number from 1 to 100.
+*/
 #include <stdio.h>
 int main()
 {
